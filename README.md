@@ -5,7 +5,6 @@
 > 현재 데이터는 모두 임의 값입니다. 실제 게임의 자원·선행 조건을 검증하거나 최적 빌드를 자동 계산하지 않습니다.
 
 - 소스 저장소: https://github.com/sleepyJK/sc1BdOptimizer
-- 기존 배포: https://broodwar-build-lab-jk.j-k-choi.chatgpt.site
 - 기존 배포는 소유자 비공개로 생성되어 공동작업자에게 열리지 않을 수 있습니다. 로컬 실행은 별도로 가능합니다.
 - 상세 인수인계: [docs/HANDOFF.md](docs/HANDOFF.md)
 - 작업 방식: [CONTRIBUTING.md](CONTRIBUTING.md)
